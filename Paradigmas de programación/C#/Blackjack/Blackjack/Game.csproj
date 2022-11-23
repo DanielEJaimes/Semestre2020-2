@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Icon %281%29.ico" />
+    <None Remove="Iconn.ico" />
+    <None Remove="StartMenu.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\API\API.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Icon (1).ico" />
+    <Resource Include="Iconn.ico" />
+    <Resource Include="StartMenu.jpg" />
+  </ItemGroup>
+
+</Project>

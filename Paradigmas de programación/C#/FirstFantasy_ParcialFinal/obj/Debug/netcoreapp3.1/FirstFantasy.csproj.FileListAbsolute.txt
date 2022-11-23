@@ -1,0 +1,38 @@
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.exe
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.deps.json
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.runtimeconfig.json
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.runtimeconfig.dev.json
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.dll
+E:\Visual Studio\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.pdb
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.csprojAssemblyReference.cache
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy_MarkupCompile.cache
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy_MarkupCompile.lref
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.g.resources
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.AssemblyInfoInputs.cache
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.AssemblyInfo.cs
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.csproj.CoreCompileInputs.cache
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.dll
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.pdb
+E:\Visual Studio\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.genruntimeconfig.cache
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.exe
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.deps.json
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.runtimeconfig.json
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.runtimeconfig.dev.json
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.dll
+C:\Users\Daniel\Desktop\FirstFantasy\bin\Debug\netcoreapp3.1\FirstFantasy.pdb
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy_MarkupCompile.cache
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy_MarkupCompile.lref
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.g.resources
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.AssemblyInfoInputs.cache
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.AssemblyInfo.cs
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.dll
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.pdb
+C:\Users\Daniel\Desktop\FirstFantasy\obj\Debug\netcoreapp3.1\FirstFantasy.genruntimeconfig.cache

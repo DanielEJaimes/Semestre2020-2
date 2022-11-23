@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Taller_Quiz</RootNamespace>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="585e4beacb11b227491c3399.png" />
+    <None Remove="aspectos-tecnicos-voleibol-balon-golpes-jugadores.jpg" />
+    <None Remove="Europei_di_pallavolo_2005_-_Italia-Russia.jpg" />
+    <None Remove="Voleibol1-.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="585e4beacb11b227491c3399.png" />
+    <Resource Include="Imágenes\585e4beacb11b227491c3399.png" />
+    <Resource Include="Imágenes\aspectos-tecnicos-voleibol-balon-golpes-jugadores.jpg" />
+    <Resource Include="Imágenes\Europei_di_pallavolo_2005_-_Italia-Russia.jpg" />
+    <Resource Include="Imágenes\Voleibol1-.jpg" />
+  </ItemGroup>
+
+</Project>
